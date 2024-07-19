@@ -1,0 +1,4 @@
+{"kargo numarasi": 1, "adi": "IREM SILA", "soyadi": "SARIKAYA", "ucreti": "136.0"}
+{"kargo numarasi": 2, "adi": "NAIME", "soyadi": "AKYUZ", "ucreti": "283.36"}
+{"kargo numarasi": 3, "adi": "GULER ", "soyadi": "AKYUZ", "ucreti": "289.8"}
+{"kargo numarasi": 4, "adi": "HAKAN", "soyadi": "AKYUZ", "ucreti": "475.2"}
